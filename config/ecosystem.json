@@ -1,0 +1,58 @@
+{
+  "name": "Art Harum Ecosystem",
+  "active_core": {
+    "suryamayaharum-droid/tattoo-crm-marketing": {
+      "role": "Art Harum OS: operating rules, technical index and future business modules",
+      "lifecycle": "active-core"
+    }
+  },
+  "usable_modules": {
+    "suryamayaharum-droid/cashflow": {
+      "role": "future financial module reference",
+      "lifecycle": "reference",
+      "rule": "security review required before any production use"
+    },
+    "suryamayaharum-droid/SARASWATI-HIVE-MIND": {
+      "role": "optional orchestration and memory laboratory",
+      "lifecycle": "optional-lab",
+      "rule": "must not be required for daily Art Harum operation"
+    },
+    "suryamayaharum-droid/n8n": {
+      "role": "automation platform source/reference",
+      "lifecycle": "optional-reference",
+      "rule": "no installation required now"
+    },
+    "suryamayaharum-droid/n8n-mcp": {
+      "role": "n8n agent/documentation bridge reference",
+      "lifecycle": "optional-reference",
+      "rule": "use only if a real n8n instance becomes justified"
+    },
+    "suryamayaharum-droid/mempalace": {
+      "role": "optional external memory technology",
+      "lifecycle": "optional-reference"
+    },
+    "suryamayaharum-droid/hermes-agent": {
+      "role": "optional persistent agent runtime",
+      "lifecycle": "optional-reference",
+      "rule": "not needed without a host/server"
+    },
+    "suryamayaharum-droid/openclaw": {
+      "role": "optional edge agent runtime",
+      "lifecycle": "optional-reference",
+      "rule": "not needed for current workflow"
+    }
+  },
+  "external_or_fork_reference": {
+    "suryamayaharum-droid/ai23": {
+      "role": "Vercel AI SDK source/fork reference",
+      "lifecycle": "reference-only"
+    },
+    "suryamayaharum-droid/MiroFish": {
+      "role": "multi-agent simulation research",
+      "lifecycle": "research-only"
+    }
+  },
+  "unclassified_repositories": {
+    "rule": "do not spend time on them until a concrete Art Harum need maps to them"
+  }
+}
