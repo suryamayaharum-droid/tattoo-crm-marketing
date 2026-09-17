@@ -1,0 +1,41 @@
+{
+  "brand": "Art Harum",
+  "concept": "traço, corpo e presença",
+  "core_visual_language": {
+    "materials": ["charcoal", "graphite", "aged matte gold", "ivory"],
+    "feel": ["atelier", "art school", "manual drawing", "sculpture study", "quiet elegance"],
+    "drawing_rules": [
+      "light fineline",
+      "generous negative space",
+      "anatomy guides composition",
+      "lines may disappear into skin",
+      "avoid unnecessary visual noise"
+    ]
+  },
+  "site_palette_progression": {
+    "home": {
+      "rule": "keep dark",
+      "palette": ["carbon", "graphite", "ivory", "matte aged gold"]
+    },
+    "section_2": ["#30343A", "#59636D", "slate blue"],
+    "section_3": ["#8998A4", "#B9C5CC", "soft silver"],
+    "section_4": ["#D7E5EA", "#EAF3F5", "cold ivory"],
+    "final_section": ["#F2F8FA", "#E7F1F4", "ice white"]
+  },
+  "recurring_motifs": [
+    "classical marble sculpture",
+    "peonies",
+    "lilies",
+    "thin branches",
+    "discreet celestial accents",
+    "abstract silhouettes",
+    "landscape hints invoking archetypes"
+  ],
+  "composition": {
+    "prefer": ["space", "silence", "asymmetry with balance", "manual texture", "transparent text overlays"],
+    "avoid": ["generic full floral", "excessive cards", "heavy visual noise", "invented portfolio work or claims"]
+  },
+  "truth_policy": {
+    "never_invent": ["portfolio work", "testimonials", "metrics", "sales", "channel integrations", "publication status"]
+  }
+}
