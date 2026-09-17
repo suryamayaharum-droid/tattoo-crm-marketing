@@ -15,7 +15,10 @@
     "vercel": {
       "role": "website and application publishing",
       "status": "connected",
-      "rule": "deploy only when a web artifact needs to be public"
+      "plan": "hobby",
+      "existing_projects": ["chatbot", "novacomp", "suryamayaharum-droid-novacomp"],
+      "canonical_art_harum_project": null,
+      "rule": "do not create another deployment until a specific Art Harum web artifact is ready"
     },
     "gmail": {
       "role": "email source/action when explicitly useful",
