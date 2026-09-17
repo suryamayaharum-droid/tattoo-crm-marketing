@@ -1,0 +1,46 @@
+{
+  "system": "ART HARUM OS",
+  "principle": "ChatGPT is the primary interface; integrations are invoked only when they add concrete value.",
+  "integrations": {
+    "google_drive": {
+      "role": "creative assets and operational knowledge",
+      "status": "connected",
+      "root": "ART HARUM — OPERACIONAL"
+    },
+    "github": {
+      "role": "code, version history and technical documentation",
+      "status": "connected",
+      "core_repository": "suryamayaharum-droid/tattoo-crm-marketing"
+    },
+    "vercel": {
+      "role": "website and application publishing",
+      "status": "connected",
+      "rule": "deploy only when a web artifact needs to be public"
+    },
+    "gmail": {
+      "role": "email source/action when explicitly useful",
+      "status": "connected",
+      "rule": "do not duplicate the human client-management role"
+    },
+    "google_calendar": {
+      "role": "schedule source/action when explicitly useful",
+      "status": "connected",
+      "rule": "do not create parallel scheduling systems"
+    },
+    "canva": {
+      "role": "design production and adaptation",
+      "status": "connected"
+    },
+    "adobe": {
+      "role": "image/design editing and production",
+      "status": "connected"
+    }
+  },
+  "optional_not_required": [
+    "n8n",
+    "Hermes",
+    "OpenClaw",
+    "VPS",
+    "persistent external multi-agent infrastructure"
+  ]
+}
