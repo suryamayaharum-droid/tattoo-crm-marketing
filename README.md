@@ -40,6 +40,10 @@ Antes de abrir um novo projeto, perguntar:
 
 Se não houver ganho claro, não criar complexidade.
 
+## Continuidade entre instâncias
+
+Para retomar trabalho técnico sem recomeçar do zero, qualquer instância deve abrir primeiro o HIVE canônico e ler `state/coordination/JEV_RESUME.v1`, depois `JEV.md`. Este repositório não duplica esse estado.
+
 ## Estado atual
 
 - Estrutura operacional consolidada em torno da Art Harum.
@@ -47,6 +51,6 @@ Se não houver ganho claro, não criar complexidade.
 - GitHub Actions não é requisito para o funcionamento diário.
 - n8n, Hermes, OpenClaw e VPS ficam fora do caminho crítico.
 - O repositório `cashflow` é uma referência futura para módulo financeiro, não uma dependência atual.
-- `SARASWATI-HIVE-MIND` permanece como laboratório/infraestrutura opcional, não como núcleo do negócio.
+- `SARASWATI-HIVE-MIND` é a fonte canônica de continuidade entre instâncias, JEV e migração técnica. O ART HARUM OS continua sendo a camada leve do negócio; HIVE não substitui o atendimento humano nem vira requisito operacional diário.
 
 Veja `docs/OPERATING_SYSTEM.md`, `docs/PRIORITIES.md` e `config/integrations.json`.
