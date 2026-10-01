@@ -54,5 +54,14 @@
   },
   "unclassified_repositories": {
     "rule": "do not spend time on them until a concrete Art Harum need maps to them"
+  },
+  "active_public_surfaces": {
+    "suryamayaharum-droid/astro-blog-starter-template": {
+      "role": "Harumverso public editorial atlas/site",
+      "lifecycle": "active-public-surface",
+      "public_route_family": "GitHub Pages / Astro",
+      "rule": "Public editorial/research surface. Does not replace Art Harum OS, human client operations, or canonical HIVE coordination.",
+      "validated_on": "2026-10-01"
+    }
   }
 }
